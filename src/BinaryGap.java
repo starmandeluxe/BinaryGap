@@ -1,6 +1,11 @@
 import java.util.Arrays;
 
-
+/*
+ * Find the largest span of zeroes in a binary number given its decimal equivalent
+ * Ex: 72 -> 1001000 will produce 2 because the largest number of zeroes bound by two 
+ * 1's is 2.
+ * 
+ */
 public class BinaryGap {
 	public static void main(String[] args)
 	{
